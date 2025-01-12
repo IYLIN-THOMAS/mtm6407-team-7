@@ -7,3 +7,7 @@ Kevin realized the truth: his family had left for their holiday trip... and forg
 At first, he felt the thrill of freedom. No one to tell him to clean up, eat vegetables, or go to bed early. But that excitement quickly turned to concern when he spotted two shady figures loitering near the driveway. Kevin overheard their whispers about "hitting the jackpot" with an empty house.
 
 He knew what he had to do.
+
+What will Kevin do next?
+
+[Set up traps around the house](setuptraps.md)
