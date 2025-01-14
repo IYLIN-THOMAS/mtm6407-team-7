@@ -7,3 +7,6 @@ Kevin grins, proud of his victory, and uses his parents' emergency contact list 
 
 <!-- add one more paragraph -->
 Kevin grins, proud of his victory, and uses his parents' emergency contact list to call for help. As he waits for the authorities to arrive, he ventures out from his hiding spot to survey the hilarious aftermath of his defense. The burglars' abandoned tools lie scattered among the mess, and the paint-splattered walls tell the story of their chaotic retreat. Just as the flashing lights of the police cars pull up outside, Kevin feels a surge of relief, knowing he not only protected his home but also proved that a bit of clever thinking can outsmart even the most determined intruders.
+
+<!-- add a option link that connect back to intro.md -->
+[Back to Intro](intro.md)
