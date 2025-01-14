@@ -11,3 +11,5 @@ He knew what he had to do.
 What will Kevin do next?
 
 [Set up traps around the house](setuptraps.md)
+
+[Calling for Backup](callbackup.md)
