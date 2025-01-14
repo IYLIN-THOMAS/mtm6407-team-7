@@ -12,4 +12,5 @@ What will Kevin do next?
 
 [Set up traps around the house](setuptraps.md)
 
-[Calling for Backup](callbackup.md)
+[The Inventive Defender](inventivedefender.md)
+
