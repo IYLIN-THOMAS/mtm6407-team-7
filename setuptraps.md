@@ -6,4 +6,3 @@ He set up a bucket of ice water above the front door, scattered marbles in the h
 
 As Kevin stood back to admire his work, he heard the sound of the front gate creaking open. The intruders were making their move.
 
-[Harry and Marv robbing the house](robbingthehouse.md)
