@@ -5,4 +5,5 @@ Realizing this could be important evidence, Kevin handed the bag to Uncle Jim. T
 
 Kevin felt a sense of pride, knowing he had not only defended his home but also helped prevent future burglaries.  
 
-[A Clever Distraction](acleverdistraction.md)  
+[A Clever Distraction](acleverdistraction.md) 
+[Kevin sets up another trick to ensure safety](setupanothertrick.md) 
