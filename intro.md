@@ -17,3 +17,5 @@ What will Kevin do next?
 [Calling the backups](callbackup.md)
 
 [Create a Distraction](acleverdistraction.md)
+
+[Outsmarting the intruders](outsmarting.md)
