@@ -15,5 +15,4 @@ What will Kevin do next?
 [The Inventive Defender](inventivedefender.md)
 
 [Calling the backups](callbackup.md)
-
-[Outsmarting the intruders](outsmarting.md)
+[Create a Distraction](acleverdistraction.md)
