@@ -18,4 +18,3 @@ What will Kevin do next?
 
 [Create a Distraction](acleverdistraction.md)
 
-[Outsmarting the intruders](outsmarting.md)
